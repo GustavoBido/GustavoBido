@@ -1,7 +1,4 @@
-# 💫 About Me:
-# 👋 Olá, meu nome é Gustavo Bido Justino  <br><br>🎯 **Product Owner** com experiência em soluções SaaS e em transição para a área de **Engenharia e Análise de Dados**.  <br>📊 Interesse em **SQL, Python, Estatística, Engenharia de Dados e Visualização de Dados**.  <br>☁️ Explorando **AWS e Azure** para construir pipelines de dados escaláveis e análises eficientes.  <br><br><br><br> 🚀 Tecnologias e Ferramentas  <br>- **Linguagens:** Python, SQL  <br>- **Bancos de Dados:** PostgreSQL, SQL Server  <br>- **Cloud:** AWS (S3, Glue, Athena, QuickSight), Azure (Data Factory, Synapse, Data Lake)  <br>- **Visualização:** Power BI, Tableau, QuickSight  <br>- **Outros:** Git, Docker, APIs  <br><br><br><br>📫 Onde me encontrar  <br>- LinkedIn: [linkedin.com/in/gustavobidojustino](https://linkedin.com/in/gustavobidojustino)  <br>- Email: gustavobido@hotmail.com  <br><br>
-
-
+# 👋 Gustavo Bido Justino  <br><br>🎯 **Product Owner** com experiência em soluções SaaS e em transição para a área de **Engenharia e Análise de Dados**.  
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-bido-justino/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavobido@hotmail.com) 
 

@@ -1,4 +1,4 @@
-# 👋 Gustavo Bido Justino  <br><br>🎯 **Product Owner** com experiência em soluções SaaS e em transição para a área de **Engenharia e Análise de Dados**.  
+# Gustavo Bido Justino  <br><br>🎯 **Product Owner** com experiência em soluções SaaS e em transição para a área de **Engenharia e Análise de Dados**.  
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-bido-justino/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavobido@hotmail.com) 
 
